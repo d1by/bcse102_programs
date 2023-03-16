@@ -1,2 +1,1 @@
-
-### bcse102 lab stuff
+# bcse 102 lab stuff
